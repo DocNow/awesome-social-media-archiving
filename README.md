@@ -6,20 +6,18 @@ it as a result of the European Union's [General Data Protection
 Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 (GDPR), specifically [Article 15](https://gdpr-info.eu/art-15-gdpr/), which
 requires platforms to make data available to users in a "commonly used
-electronic form".
+electronic form". While it's great we can download our own data, it's often made
+available in a raw format that isn't terribly useful for most people.
 
-While it's great we can download our own data, it's often made available in a
-raw format that isn't terribly useful for most people.
+**Awesome Archive Tools** is a list of tools that help you work with these
+platform archives. By *platform* we mean any web property that allows you to
+download *your* data as an "archive" (usually a zip file). By *tool* we mean
+anything that lets you do something useful with the downloaded data. Tools that
+let you scrape data from the web, or extract data from APIs are important, but
+are out of scope for this list.
 
-**Awesome Archive Tools** is a list of tools that you can use use to work with
-these platform archives. By *platform* we mean any web property that allows you
-to download *your* data, and by *tool* we mean anything that lets you work with
-the downloaded data. For example, tools that let you scrape from the web or
-extract data from APIs are important, but out of scope for this modest list.
-
-Admittedly, part of the rationale for this list is to hope for a day when there
-are more tools like this. If you don't see one for the platform archive you have
-maybe consider creating one and adding it here?
+If the platform archive contains a user-friendly viewer for the data you can
+indicate that here as well.
 
 ## Contents
 
