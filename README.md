@@ -34,7 +34,7 @@ written material that help people use their downloaded data.
 
 ### 23andMe
 
-
+- [genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)
 
 ### Basecamp
 
