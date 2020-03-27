@@ -24,9 +24,29 @@ written material that help people use their downloaded data.
 ## Contents
 
 - [Platforms](#platforms)
+  - [23andMe](#23andme)
   - [Basecamp](#basecamp)
+  - [Google](#google)
+  - [Healthkit](#healthkit)
   - [Slack](#slack)
+  - [Twitter](#twitter)
 - [Guides](#guides)
+
+### 23andMe
+
+
+
+### Basecamp
+
+- [backpack-export-xslt](https://github.com/ryanfb/backpack-export-xslt)
+
+### Google
+
+- [google-takeout-to-sqlite](https://github.com/dogsheep/google-takeout-to-sqlite)
+
+### Healthkit
+
+- [healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)
 
 ### Slack
 
@@ -34,9 +54,9 @@ written material that help people use their downloaded data.
 - [slack-export-viewer](https://github.com/hfaran/slack-export-viewer)
 - [slack-export-viewer](https://github.com/davidjgoss/slack-export-viewer)
 
-### Basecamp
+### Twitter
 
-- [backpack-export-xslt](https://github.com/ryanfb/backpack-export-xslt)
+- [twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)
 
 ## Guides
 
