@@ -14,10 +14,10 @@ download your data.
 
 ## Contents
 
-- [Platforms][#platforms]
+- [Platforms](#platforms)
   - [Basecamp](#basecamp)
   - [Slack](#slack)
-- [Guides][#guides]
+- [Guides](#guides)
 
 ### Slack
 
