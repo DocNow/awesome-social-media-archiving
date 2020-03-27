@@ -1,4 +1,4 @@
-# Awesome Archive Tools 
+# Awesome Archive Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Many social media and web platforms allow you to download your content as an
 archive. Some platforms have been doing this for some time, but many started
